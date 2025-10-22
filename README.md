@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=venom&text=HEENA's%20GitHub&color=9BBB59&height=250&fontSize=70&animation=fadeIn" />
 
-  <h1>🤍 Introduce 🤍</h1>
+  <h1>🔆 Introduce 🔆</h1>
   <h3>사용자 경험을 최우선으로 생각하며 개발하는 전희나입니다.</h3>
   <br>
   <h4>"길은 하나가 아니다."</h4>
