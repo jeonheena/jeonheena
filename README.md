@@ -1,7 +1,6 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=venom&text=HEENA's%20GitHub&color=9BBB59&height=250&fontSize=70&animation=fadeIn" />
     
----
   <h1>🔆 Introduce 🔆</h1>
   <h3>사용자 경험을 최우선으로 생각하며 개발하는 전희나입니다.</h3>
   <br>
@@ -10,7 +9,6 @@
   <h4>팀원들과 자유롭게 소통하며, 사용자의 입장에서 편의성을 고려한 개발을 실천하겠습니다.</h4>
 <br>
 
----
   <h1>🕹️ Tech Stack</h1>
     
   <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="30"/></a>
