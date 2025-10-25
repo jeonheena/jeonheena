@@ -9,7 +9,7 @@
   <h4>팀원들과 자유롭게 소통하며, 사용자의 입장에서 편의성을 고려한 개발을 실천하겠습니다.</h4>
 <br>
 
-  <h1>🕹️ Tech Stack</h1>
+  <h1>🍏 Tech Stack 🍏</h1>
     
   <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="30"/></a>
     
